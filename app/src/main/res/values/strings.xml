@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <array name="city">
+        <item>Bhavnagar</item>
+        <item>Ahemdabad</item>
+        <item>Baroda</item>
+        <item>Rajkot</item>
+    </array>
+</resources>
